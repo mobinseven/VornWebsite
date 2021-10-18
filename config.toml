@@ -1,5 +1,5 @@
-baseURL = "http://farzad.engineer"
-title = "Farzad M."
+baseURL = "https://vorn.ir"
+title = "Vanguards of Rationalist Networks"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -13,9 +13,9 @@ enableEmoji = true
 
 [params]
 author = "Farzad M."
-description = "Farzad's personal website"
-keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Control Engineer"]
+description = "Vanguards of Rationalist Networks"
+keywords = "company,engineering,systems"
+info = ["System Design Firm"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 footerContent = "Knowledge is power."
@@ -156,19 +156,19 @@ url = "posts/"
 #url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Contact"
 weight = 5
 url = "contact/"
 
 [languages.fa]
 languageName = "FA"
-title = "فرزاد مطلبی‌زاده"
+title = "پیشگامان شبکه‌های خردگرا"
 
 [languages.fa.params]
-author = "فرزاد مطلبی‌زاده"
-info = "برنامه‌نویس و مهندس کنترل"
-description = "پایگاه شخصی فرزاد مطلبی‌زاده"
-keywords = "بلاگ,برنامه نویس,مهندس کنترل"
+author = "پیشگامان شبکه‌های خردگرا"
+info = "شرکت مهندسی سیستم"
+description = "پایگاه شرکت پیشگامان شبکه‌های خردگرا"
+keywords = "مهندسی سیستم"
 footerContent = "خرد افسر شهریاران بود&nbsp;&nbsp;&nbsp;&nbsp;همان زیور نامداران بود"
 rtl = true
 customCSS = ["css/custom.css"]
@@ -177,7 +177,7 @@ hideCredits = true
 hideCopyright = true
 
 [[languages.fa.menu.main]]
-name = "درباره‌ی من"
+name = "درباره"
 weight = 1
 url = "about/"
 
@@ -192,6 +192,6 @@ url = "posts/"
 #url = "projects/"
 
 [[languages.fa.menu.main]]
-name = "تماس با من"
+name = "تماس"
 weight = 5
 url = "contact/"
