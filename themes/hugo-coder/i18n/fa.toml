@@ -1,0 +1,99 @@
+[category]
+other = "دسته"
+
+[categories]
+other = "دسته‌ها"
+
+[tag]
+other = "برچسب"
+
+[tags]
+other = "برچسب‌ها"
+
+[series]
+other = "سری‌ها"
+
+[author]
+other = "نویسنده"
+
+[authors]
+other = "نویسندگان"
+
+[posts]
+other = "فرسته‌ها"
+
+[reading_time]
+one = "یک دقیقه"
+other = "{{ .Count }}-دقیقه"
+
+[page_not_found]
+other = "صفحه پیدا نشد."
+
+[page_does_not_exist]
+other = "صفحه وجود ندارد."
+
+[head_back]
+other = "می‌توانید به <a href=\"{{ . }}\">خانه</a> بازگردید."
+
+[powered_by]
+other = "ساخته شده با"
+
+[see_also]
+other = "دیدن همانندها"
+
+[note]
+other = "یادداشت"
+
+[tip]
+other = "راهنمایی"
+
+[example]
+other = "نمونه"
+
+[question]
+other = "پرسش"
+
+[info]
+other = "اطلاع"
+
+[warning]
+other = "هشدار"
+
+[error]
+other = "خطا"
+
+[January]
+other = "ژانویه"
+
+[February]
+other = "فوریه"
+
+[March]
+other = "مارس"
+
+[April]
+other = "اپریل"
+
+[May]
+other = "می"
+
+[June]
+other = "ژوان"
+
+[July]
+other = "ژولای"
+
+[August]
+other = "آگست"
+
+[September]
+other = "سپتامبر"
+
+[October]
+other = "اکتبر"
+
+[November]
+other = "نوامبر"
+
+[December]
+other = "دسامبر"
