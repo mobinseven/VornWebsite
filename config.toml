@@ -1,4 +1,4 @@
-baseURL = "http://vorn.ir"
+baseURL = "https://vorn.ir"
 title = "Vanguards of Rationalist Networks"
 theme = "hugo-coder"
 languageCode = "en"
