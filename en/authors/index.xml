@@ -4,16 +4,6 @@
     <title>Authors on VORN</title>
     <link>/en/authors/</link>
     <description>Recent content in Authors on VORN</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Oct 2021 13:50:00 +0000</lastBuildDate><atom:link href="/en/authors/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>یونس ملکی</title>
-      <link>/en/authors/%DB%8C%D9%88%D9%86%D8%B3-%D9%85%D9%84%DA%A9%DB%8C/</link>
-      <pubDate>Wed, 20 Oct 2021 13:50:00 +0000</pubDate>
-      
-      <guid>/en/authors/%DB%8C%D9%88%D9%86%D8%B3-%D9%85%D9%84%DA%A9%DB%8C/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/en/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
