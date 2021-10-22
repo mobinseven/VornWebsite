@@ -8,20 +8,11 @@
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/en/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>/en/en/posts/emoji-support/</link>
+      <link>/en/posts/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/en/posts/emoji-support/</guid>
+      <guid>/en/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>پشتیبانی از شکلک</title>
-      <link>/en/fa/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/en/fa/posts/emoji-support/</guid>
-      <description>در این پوسته از شکلک ها پشتیبانی میشود. به شرط آنکه کیبورد شما توانایی ورود این شلک ها را داشته باشد. کیبورد من این امکان را به من نمیدهد. ولی این مانعی برای کار من ایجاد نمیکند چراکه نیازی به این دست شکلک ها ندارم. نوشتار های این سایت عمدتا جدی بوده و استفاده از این شکلک ها در این دست نوشتارها رایج نیست. </description>
     </item>
     
   </channel>
