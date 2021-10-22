@@ -67,12 +67,6 @@
                 href="/fa/tags/"
                 />
   </url><url>
-    <loc>/fa/tags/test/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/fa/posts/test-new/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/fa/tags/text/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -85,6 +79,12 @@
                 hreflang="fa"
                 href="/fa/tags/text/"
                 />
+  </url><url>
+    <loc>/fa/tags/%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fa/posts/test-new/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/fa/categories/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
