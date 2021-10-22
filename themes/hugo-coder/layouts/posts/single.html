@@ -12,6 +12,18 @@
             </a>
           </h1>
         </div>
+      </header>
+
+      <div>
+        {{ if .Params.featuredImage }}
+          <img src='{{ .Params.featuredImage }}' alt="Featured image"/>
+        {{ end }}
+        {{ .Content }}
+      </div>
+
+
+      <footer>
+        
         <div class="post-meta">
           <div class="date">
             <span class="posted-on">
@@ -29,17 +41,7 @@
           {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
           {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
         </div>
-      </header>
-
-      <div>
-        {{ if .Params.featuredImage }}
-          <img src='{{ .Params.featuredImage }}' alt="Featured image"/>
-        {{ end }}
-        {{ .Content }}
-      </div>
-
-
-      <footer>
+        
         {{ partial "posts/series.html" . }}
         {{ partial "posts/disqus.html" . }}
         {{ partial "posts/commento.html" . }}
