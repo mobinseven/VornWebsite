@@ -46,6 +46,7 @@ author = "authors"
 
 [languages.en]
 languageName = ":uk:"
+contentDir = "content/en"
 
 [[languages.en.menu.main]]
 name = "About"
@@ -70,6 +71,7 @@ url = "contact/"
 [languages.fa]
 languageName = "پارسی"
 title = "پیشگامان شبکه‌های خردگرا"
+contentDir = "content/fa"
 
 [languages.fa.params]
 author = "پیشگامان شبکه‌های خردگرا"
