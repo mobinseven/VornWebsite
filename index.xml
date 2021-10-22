@@ -44,6 +44,15 @@
     </item>
     
     <item>
+      <title>Mais Conteúdo Rico</title>
+      <link>/posts/more-rich-content-fa/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/more-rich-content-fa/</guid>
+      <description>&lt;p&gt;O Hugo Coder proporciona alguns Shortcodes Customizados.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>More Rich Content</title>
       <link>/posts/more-rich-content/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
