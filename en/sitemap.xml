@@ -54,17 +54,17 @@
                 href="/en/tags/markdown/"
                 />
   </url><url>
-    <loc>/en/posts/markdown-syntax/</loc>
+    <loc>/en/2019/03/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/posts/markdown-syntax/"
+                href="/fa/2019/03/guia-de-sintaxe-markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/markdown-syntax/"
+                href="/en/2019/03/markdown-syntax-guide/"
                 />
   </url><url>
     <loc>/en/posts/</loc>
@@ -141,17 +141,17 @@
                 href="/en/tags/privacy/"
                 />
   </url><url>
-    <loc>/en/posts/rich-content/</loc>
+    <loc>/en/2019/03/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/posts/rich-content/"
+                href="/fa/2019/03/conte%C3%BAdo-rico/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/rich-content/"
+                href="/en/2019/03/rich-content/"
                 />
   </url><url>
     <loc>/en/tags/shortcodes/</loc>
@@ -167,30 +167,30 @@
                 href="/en/tags/shortcodes/"
                 />
   </url><url>
-    <loc>/en/posts/more-rich-content/</loc>
+    <loc>/en/2019/03/more-rich-content/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/posts/more-rich-content/"
+                href="/fa/2021/10/%D9%85%D8%AD%D8%AA%D9%88%D8%A7%DB%8C-%D8%BA%D9%86%DB%8C-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/more-rich-content/"
+                href="/en/2019/03/more-rich-content/"
                 />
   </url><url>
-    <loc>/en/posts/placeholder-text/</loc>
+    <loc>/en/2019/03/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/posts/placeholder-text/"
+                href="/fa/2021/03/%D9%86%D9%85%D9%88%D9%86%D9%87-%D9%86%D9%88%D8%B4%D8%AA%D8%A7%D8%B1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/placeholder-text/"
+                href="/en/2019/03/placeholder-text/"
                 />
   </url><url>
     <loc>/en/tags/text/</loc>
@@ -206,7 +206,7 @@
                 href="/en/tags/text/"
                 />
   </url><url>
-    <loc>/en/posts/math-typesetting/</loc>
+    <loc>/en/2019/03/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/en/tags/emoji/</loc>
@@ -222,17 +222,17 @@
                 href="/en/tags/emoji/"
                 />
   </url><url>
-    <loc>/en/posts/emoji-support/</loc>
+    <loc>/en/2019/03/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/posts/emoji-support/"
+                href="/fa/2019/03/%D9%BE%D8%B4%D8%AA%DB%8C%D8%A8%D8%A7%D9%86%DB%8C-%D8%A7%D8%B2-%D8%B4%DA%A9%D9%84%DA%A9/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/emoji-support/"
+                href="/en/2019/03/emoji-support/"
                 />
   </url><url>
     <loc>/en/categories/development/</loc>
@@ -261,17 +261,17 @@
                 href="/en/tags/development/"
                 />
   </url><url>
-    <loc>/en/posts/hugo-coder-wiki/</loc>
+    <loc>/en/2019/03/external-page-hugo-coder-wiki/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/posts/hugo-coder-wiki/"
+                href="/fa/2019/03/p%C3%A1gina-externa-wiki-hugo-coder/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/hugo-coder-wiki/"
+                href="/en/2019/03/external-page-hugo-coder-wiki/"
                 />
   </url><url>
     <loc>/en/tags/hugo/</loc>
