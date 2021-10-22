@@ -1,6 +1,7 @@
 on: 
   push:
     branches: [ output ]
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 name: 🚀 Deploy website on push
 jobs:
