@@ -15,4 +15,3 @@ jobs:
         server: ftp.vorn.ir
         username: github
         password: ${{ secrets.ftp_password }}
-        local-dir: ./public/
