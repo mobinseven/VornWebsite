@@ -161,7 +161,7 @@ weight = 5
 url = "contact/"
 
 [languages.fa]
-languageName = "FA"
+languageName = "پارسی"
 title = "پیشگامان شبکه‌های خردگرا"
 
 [languages.fa.params]
