@@ -219,21 +219,68 @@
   </url><url>
     <loc>/categories/development/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/categories/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/development/"
+                />
   </url><url>
     <loc>/tags/development/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/tags/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/development/"
+                />
   </url><url>
     <loc>/posts/hugo-coder-wiki/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/posts/hugo-coder-wiki/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/hugo-coder-wiki/"
+                />
   </url><url>
     <loc>/tags/hugo/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/hugo-coder-wiki/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/hugo/"
+                />
   </url><url>
     <loc>/tags/themes/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/tags/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/themes/"
+                />
   </url><url>
     <loc>/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
