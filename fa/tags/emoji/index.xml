@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emoji on پیشگامان شبکه‌های خردگرا</title>
+    <link>/fa/tags/emoji/</link>
+    <description>Recent content in emoji on پیشگامان شبکه‌های خردگرا</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/fa/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>پشتیبانی از شکلک</title>
+      <link>/fa/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/fa/posts/emoji-support/</guid>
+      <description>در این پوسته از شکلک ها پشتیبانی میشود. به شرط آنکه کیبورد شما توانایی ورود این شلک ها را داشته باشد. کیبورد من این امکان را به من نمیدهد. ولی این مانعی برای کار من ایجاد نمیکند چراکه نیازی به این دست شکلک ها ندارم. نوشتار های این سایت عمدتا جدی بوده و استفاده از این شکلک ها در این دست نوشتارها رایج نیست. </description>
+    </item>
+    
+  </channel>
+</rss>
