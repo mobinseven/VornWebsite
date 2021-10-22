@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fas on VORN</title>
+    <link>/en/fa/</link>
+    <description>Recent content in Fas on VORN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/en/fa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>نمونه نوشتار</title>
+      <link>/en/fa/posts/placeholder-text/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/fa/posts/placeholder-text/</guid>
+      <description>اگر این نوشتار را میخوانید یعنی در صفحه فارسی هستید.
+ Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude  Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
+ Comas hunc haec pietate fetum procerum dixit Post torum vates letum Tiresia Flumen querellas Arcanaque montibus omnes Quidem et  Vagus elidunt    &amp;lt;svg class=&amp;ldquo;canon&amp;rdquo; xmlns=&amp;quot;http://www.</description>
+    </item>
+    
+    <item>
+      <title>Guia de Sintaxe Markdown</title>
+      <link>/en/fa/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/fa/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Conteúdo Rico</title>
+      <link>/en/fa/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/fa/posts/rich-content/</guid>
+      <description>&lt;p&gt;O Hugo vem com vários &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Shortcodes Internos&lt;/a&gt; para conteúdo rico, assim como uma &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Configuração de Privacidade&lt;/a&gt; e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Configuração de Equações Matemáticas</title>
+      <link>/en/fa/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/fa/posts/math-typesetting/</guid>
+      <description>&lt;p&gt;Em um projeto Hugo as Notações Matemáticas podem ser usadas com a ajuda de bibliotecas JavaScript de terceiros.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>پشتیبانی از شکلک</title>
+      <link>/en/fa/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/fa/posts/emoji-support/</guid>
+      <description>در این پوسته از شکلک ها پشتیبانی میشود. به شرط آنکه کیبورد شما توانایی ورود این شلک ها را داشته باشد. کیبورد من این امکان را به من نمیدهد. ولی این مانعی برای کار من ایجاد نمیکند چراکه نیازی به این دست شکلک ها ندارم. نوشتار های این سایت عمدتا جدی بوده و استفاده از این شکلک ها در این دست نوشتارها رایج نیست. </description>
+    </item>
+    
+    <item>
+      <title>Página Externa: Wiki Hugo Coder</title>
+      <link>/en/fa/posts/hugo-coder-wiki/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/fa/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/en/fa/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/fa/about/</guid>
+      <description>من مهندس کنترل و برنامه‌نویس هستم.
+O Hugo faz o uso de vários projetos de código aberto incluíndo:
+ https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  O Hugo é ideal para blogs, sites corporativos, protfólio criativos, revistas online, aplicações de página única ou até sites com milhares de páginas.
+O Hugo é para pessoas que querem cuidar do seu próprio site sem se preocupar com a configuração ambientes complicados, dependências e bancos de dados.</description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>/en/fa/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/fa/projects/</guid>
+      <description>Nada para ver aqui.. Circulando!</description>
+    </item>
+    
+    <item>
+      <title>تماس با من</title>
+      <link>/en/fa/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/fa/contact/</guid>
+      <description>با من از طریق ایمیلم تماس بگیرید.</description>
+    </item>
+    
+  </channel>
+</rss>

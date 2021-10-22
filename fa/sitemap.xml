@@ -2,261 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/fa/tags/markdown/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/tags/markdown/"
-                />
-  </url><url>
-    <loc>/fa/posts/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/posts/"
-                />
-  </url><url>
-    <loc>/fa/tags/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/tags/"
-                />
-  </url><url>
-    <loc>/fa/tags/text/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/tags/text/"
-                />
-  </url><url>
-    <loc>/fa/posts/placeholder-text/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/posts/placeholder-text/"
-                />
-  </url><url>
-    <loc>/fa/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/"
-                />
-  </url><url>
-    <loc>/fa/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/posts/rich-content/"
-                />
-  </url><url>
-    <loc>/fa/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/tags/privacy/"
-                />
-  </url><url>
-    <loc>/fa/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/tags/shortcodes/"
-                />
-  </url><url>
-    <loc>/fa/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/math-typesetting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/posts/math-typesetting/"
-                />
-  </url><url>
-    <loc>/fa/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/tags/emoji/"
-                />
-  </url><url>
-    <loc>/fa/tags/%D8%B4%DA%A9%D9%84%DA%A9/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/fa/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/posts/emoji-support/"
-                />
-  </url><url>
-    <loc>/fa/categories/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/categories/"
-                />
-  </url><url>
-    <loc>/fa/categories/development/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/categories/development/"
-                />
-  </url><url>
-    <loc>/fa/tags/development/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/tags/development/"
-                />
-  </url><url>
-    <loc>/fa/tags/hugo/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/tags/hugo/"
-                />
-  </url><url>
-    <loc>/fa/posts/hugo-coder-wiki/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/hugo-coder-wiki/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/posts/hugo-coder-wiki/"
-                />
-  </url><url>
-    <loc>/fa/tags/themes/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/tags/themes/"
-                />
-  </url><url>
-    <loc>/fa/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/about/"
-                />
-  </url><url>
     <loc>/fa/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/"
+                href="/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -264,23 +14,23 @@
                 href="/fa/authors/"
                 />
   </url><url>
-    <loc>/fa/projects/</loc>
+    <loc>/fa/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/projects/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/projects/"
+                href="/fa/categories/"
                 />
   </url><url>
     <loc>/fa/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/series/"
+                href="/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -288,16 +38,28 @@
                 href="/fa/series/"
                 />
   </url><url>
-    <loc>/fa/contact/</loc>
+    <loc>/fa/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/contact/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/contact/"
+                href="/fa/tags/"
+                />
+  </url><url>
+    <loc>/fa/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/"
                 />
   </url>
 </urlset>
