@@ -9,7 +9,8 @@ pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
-
+[markup.goldmark.renderer]
+unsafe= true
 [params]
 author = "Vanguards of Rationalist Networks"
 description = "Vanguards of Rationalist Networks, Ltd."
