@@ -44,15 +44,6 @@
     </item>
     
     <item>
-      <title>Mais Conteúdo Rico</title>
-      <link>/posts/more-rich-content-fa/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/more-rich-content-fa/</guid>
-      <description>&lt;p&gt;O Hugo Coder proporciona alguns Shortcodes Customizados.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>More Rich Content</title>
       <link>/posts/more-rich-content/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
@@ -77,6 +68,15 @@
       
       <guid>/posts/placeholder-text.pt-br/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>محتوای غنی</title>
+      <link>/posts/more-rich-content-fa/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/more-rich-content-fa/</guid>
+      <description>نمونه کدهای کوتاه &amp;lt;!&amp;ndash;more&amp;ndash;&amp;gt;    کدهای کوتاه    Note  یک پیام.  Tip  یک نکته.  Example  یک نمونه .  Question  یک پرسش؟  Info  یک اطلاع  Warning  یک هشدار!  Error  یک خطا.  </description>
     </item>
     
     <item>
