@@ -2,6 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/fa/posts/</loc>
+    <lastmod>2021-10-22T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/posts/"
+                />
+  </url><url>
+    <loc>/fa/tags/shortcodes/</loc>
+    <lastmod>2021-10-22T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/tags/shortcodes/"
+                />
+  </url><url>
+    <loc>/fa/tags/</loc>
+    <lastmod>2021-10-22T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/tags/"
+                />
+  </url><url>
+    <loc>/fa/posts/more-rich-content/</loc>
+    <lastmod>2021-10-22T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/more-rich-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/posts/more-rich-content/"
+                />
+  </url><url>
+    <loc>/fa/</loc>
+    <lastmod>2021-10-22T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/"
+                />
+  </url><url>
+    <loc>/fa/tags/%DA%A9%D8%AF%D9%87%D8%A7%DB%8C-%DA%A9%D9%88%D8%AA%D8%A7%D9%87/</loc>
+    <lastmod>2021-10-22T09:00:00+00:00</lastmod>
+  </url><url>
     <loc>/fa/authors/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -41,32 +109,6 @@
                 href="/fa/tags/markdown/"
                 />
   </url><url>
-    <loc>/fa/posts/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/posts/"
-                />
-  </url><url>
-    <loc>/fa/tags/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/tags/"
-                />
-  </url><url>
     <loc>/fa/tags/text/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -79,12 +121,6 @@
                 hreflang="fa"
                 href="/fa/tags/text/"
                 />
-  </url><url>
-    <loc>/fa/tags/%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/fa/posts/test-new/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/fa/categories/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
@@ -102,18 +138,8 @@
                 href="/fa/posts/placeholder-text/"
                 />
   </url><url>
-    <loc>/fa/</loc>
+    <loc>/fa/posts/test-new/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/"
-                />
   </url><url>
     <loc>/fa/authors/%DA%AF%D8%B1%D9%88%D9%87-%D9%86%D9%88%DB%8C%D8%B3%D9%86%D8%AF%DA%AF%D8%A7%D9%86/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
@@ -203,19 +229,6 @@
                 rel="alternate"
                 hreflang="fa"
                 href="/fa/tags/privacy/"
-                />
-  </url><url>
-    <loc>/fa/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/tags/shortcodes/"
                 />
   </url><url>
     <loc>/fa/tags/emoji/</loc>
