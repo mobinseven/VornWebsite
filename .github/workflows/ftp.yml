@@ -8,7 +8,7 @@ jobs:
     - name: 🚚 Get latest code
       uses: actions/checkout@v2
       with:
-        ref: Output
+        ref: output
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.1.0
       with:
