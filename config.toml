@@ -3,6 +3,7 @@ title = "VORN"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 paginate = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
