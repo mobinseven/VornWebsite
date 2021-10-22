@@ -70,6 +70,25 @@
     <loc>/fa/tags/%DA%A9%D8%AF%D9%87%D8%A7%DB%8C-%DA%A9%D9%88%D8%AA%D8%A7%D9%87/</loc>
     <lastmod>2021-10-22T09:00:00+00:00</lastmod>
   </url><url>
+    <loc>/fa/categories/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/categories/"
+                />
+  </url><url>
+    <loc>/fa/posts/%D9%81%D8%B1%D8%B3%D8%AA%D9%87-%DB%B1/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fa/categories/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/fa/authors/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -81,19 +100,6 @@
                 rel="alternate"
                 hreflang="fa"
                 href="/fa/authors/"
-                />
-  </url><url>
-    <loc>/fa/categories/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/categories/"
                 />
   </url><url>
     <loc>/fa/tags/markdown/</loc>
@@ -121,9 +127,6 @@
                 hreflang="fa"
                 href="/fa/tags/text/"
                 />
-  </url><url>
-    <loc>/fa/categories/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA/</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/fa/posts/placeholder-text/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
