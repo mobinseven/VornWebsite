@@ -1,11 +1,10 @@
 +++ 
-draft = false
 date = 2021-03-10T00:00:00.000Z
-title = "Test New"
+title = "آزمایش نو"
 description = "A post to test making new posts"
 slug = ""
 authors = ["گروه نویسندگان"]
-tags = ["Test"]
+tags = ["آزمایش"]
 categories = ["مقالات"]
 externalLink = ""
 series = []
