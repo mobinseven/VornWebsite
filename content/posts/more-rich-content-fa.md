@@ -1,43 +1,25 @@
 +++
-author = "Hugo Authors"
-title = "Mais Conteúdo Rico"
-date = "2019-03-09"
-description = "Uma breve descrição sobre Shortcodes customizados do Hugo Coder"
-tags = [
-    "shortcodes"
-]
+author = "فرزاد مطلبی زاده"
+title = "محتوای غنی"
+date = 2019-03-09T00:00:00.000Z
+description = "مختوای غنی در قالب سایت"
+tags = [ "shortcodes", "کدهای کوتاه" ]
 +++
 
-O Hugo Coder proporciona alguns Shortcodes Customizados.
-<!--more-->
----
+## نمونه کدهای کوتاه &lt;\!--more--&gt;
 
-## Shortcodes Avisos
+## کدهای کوتاه
 
-{{< notice note >}}
-Uma nota aqui.
-{{< /notice >}}
+{{< notice note >}} یک پیام. {{< /notice >}}
 
-{{< notice tip >}}
-Estou lhe dando uma dica.
-{{< /notice >}}
+{{< notice tip >}} یک نکته. {{< /notice >}}
 
-{{< notice example >}}
-Isso é um exemplo.
-{{< /notice >}}
+{{< notice example >}} یک نمونه . {{< /notice >}}
 
-{{< notice question >}}
-Isso é um pergunta?
-{{< /notice >}}
+{{< notice question >}}یک پرسش؟ {{< /notice >}}
 
-{{< notice info >}}
-Note que essa caixa contém informações.
-{{< /notice >}}
+{{< notice info >}} یک اطلاع{{< /notice >}}
 
-{{< notice warning >}}
-Este é o último aviso!
-{{< /notice >}}
+{{< notice warning >}} یک هشدار\! {{< /notice >}}
 
-{{< notice error >}}
-Há um erro no seu código.
-{{< /notice >}}
+{{< notice error >}} یک خطا. {{< /notice >}}
