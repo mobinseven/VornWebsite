@@ -1,5 +1,5 @@
 baseURL = "https://vorn.ir"
-title = "Vanguards of Rationalist Networks"
+title = "VORN"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,8 +12,8 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Farzad M."
-description = "Vanguards of Rationalist Networks"
+author = "Vanguards of Rationalist Networks"
+description = "Vanguards of Rationalist Networks, Ltd."
 keywords = "company,engineering,systems"
 info = ["System Design Firm"]
 avatarURL = "images/logo.png"
@@ -99,11 +99,11 @@ series = "series"
 tag = "tags"
 author = "authors"
 
-[[params.social]]
-name = "Github"
-icon = "fa fa-github"
-weight = 1
-url = "https://github.com/mobinseven/"
+#[[params.social]]
+#name = "Github"
+#icon = "fa fa-github"
+#weight = 1
+#url = "https://github.com/mobinseven/"
 
 #[[params.social]]
 #name = "Gitlab"
