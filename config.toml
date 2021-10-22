@@ -11,8 +11,6 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 [markup.goldmark.renderer]
 unsafe= true
-[permalinks]
-  posts = "/:year/:month/:title"
 [params]
 author = "Vanguards of Rationalist Networks"
 description = "Vanguards of Rationalist Networks, Ltd."
