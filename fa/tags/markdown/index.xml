@@ -8,10 +8,10 @@
     <lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/fa/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>نمونه نوشتار</title>
-      <link>/fa/2021/03/%D9%86%D9%85%D9%88%D9%86%D9%87-%D9%86%D9%88%D8%B4%D8%AA%D8%A7%D8%B1/</link>
+      <link>/fa/posts/placeholder-text/</link>
       <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/fa/2021/03/%D9%86%D9%85%D9%88%D9%86%D9%87-%D9%86%D9%88%D8%B4%D8%AA%D8%A7%D8%B1/</guid>
+      <guid>/fa/posts/placeholder-text/</guid>
       <description>اگر این نوشتار را میخوانید یعنی در صفحه فارسی هستید.
  Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude  Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
  Comas hunc haec pietate fetum procerum dixit Post torum vates letum Tiresia Flumen querellas Arcanaque montibus omnes Quidem et  Vagus elidunt    &amp;lt;svg class=&amp;ldquo;canon&amp;rdquo; xmlns=&amp;quot;http://www.</description>
@@ -19,20 +19,20 @@
     
     <item>
       <title>نو نوشتار</title>
-      <link>/fa/2021/03/%D9%86%D9%88-%D9%86%D9%88%D8%B4%D8%AA%D8%A7%D8%B1/</link>
+      <link>/fa/posts/test-new/</link>
       <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/fa/2021/03/%D9%86%D9%88-%D9%86%D9%88%D8%B4%D8%AA%D8%A7%D8%B1/</guid>
+      <guid>/fa/posts/test-new/</guid>
       <description>گستره‌ی عبارات    گستره‌ی عبارات به کار برده شده در این نوشتار آنقدر زیاد است که در این نوشتار نمی‌گنجد.
 کدهای کوتاه    یادداشت  یک پیام.  راهنمایی  یک نکته.  نمونه  یک نمونه .  پرسش  یک پرسش؟  اطلاع  یک اطلاع  هشدار  یک هشدار!  خطا  یک خطا.  </description>
     </item>
     
     <item>
       <title>Guia de Sintaxe Markdown</title>
-      <link>/fa/2019/03/guia-de-sintaxe-markdown/</link>
+      <link>/fa/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/fa/2019/03/guia-de-sintaxe-markdown/</guid>
+      <guid>/fa/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.&lt;/p&gt;</description>
     </item>
     

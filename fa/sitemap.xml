@@ -41,17 +41,17 @@
                 href="/fa/tags/"
                 />
   </url><url>
-    <loc>/fa/2021/10/%D9%85%D8%AD%D8%AA%D9%88%D8%A7%DB%8C-%D8%BA%D9%86%DB%8C-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1/</loc>
+    <loc>/fa/posts/more-rich-content/</loc>
     <lastmod>2021-10-22T09:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/2019/03/more-rich-content/"
+                href="/en/posts/more-rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/2021/10/%D9%85%D8%AD%D8%AA%D9%88%D8%A7%DB%8C-%D8%BA%D9%86%DB%8C-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1/"
+                href="/fa/posts/more-rich-content/"
                 />
   </url><url>
     <loc>/fa/</loc>
@@ -83,7 +83,7 @@
                 href="/fa/categories/"
                 />
   </url><url>
-    <loc>/fa/2021/10/%D9%81%D8%B1%D8%B3%D8%AA%D9%87-%DB%B1/</loc>
+    <loc>/fa/posts/%D9%81%D8%B1%D8%B3%D8%AA%D9%87-%DB%B1/</loc>
     <lastmod>2021-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/fa/categories/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA/</loc>
@@ -132,7 +132,7 @@
     <loc>/fa/tags/%DA%86%D8%A7%D8%B1%D9%88%D8%A7%DA%98%D9%87/</loc>
     <lastmod>2021-10-12T13:50:00+00:00</lastmod>
   </url><url>
-    <loc>/fa/2021/10/%DA%86%D8%A7%D8%B1%D9%88%D8%A7%DA%98%D9%87/</loc>
+    <loc>/fa/posts/%DA%86%D8%A7%D8%B1%D9%88%D8%A7%DA%98%D9%87/</loc>
     <lastmod>2021-10-12T13:50:00+00:00</lastmod>
   </url><url>
     <loc>/fa/authors/%DB%8C%D9%88%D9%86%D8%B3-%D9%85%D9%84%DA%A9%DB%8C/</loc>
@@ -164,20 +164,20 @@
                 href="/fa/tags/text/"
                 />
   </url><url>
-    <loc>/fa/2021/03/%D9%86%D9%85%D9%88%D9%86%D9%87-%D9%86%D9%88%D8%B4%D8%AA%D8%A7%D8%B1/</loc>
+    <loc>/fa/posts/placeholder-text/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/2019/03/placeholder-text/"
+                href="/en/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/2021/03/%D9%86%D9%85%D9%88%D9%86%D9%87-%D9%86%D9%88%D8%B4%D8%AA%D8%A7%D8%B1/"
+                href="/fa/posts/placeholder-text/"
                 />
   </url><url>
-    <loc>/fa/2021/03/%D9%86%D9%88-%D9%86%D9%88%D8%B4%D8%AA%D8%A7%D8%B1/</loc>
+    <loc>/fa/posts/test-new/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/fa/authors/%DA%AF%D8%B1%D9%88%D9%87-%D9%86%D9%88%DB%8C%D8%B3%D9%86%D8%AF%DA%AF%D8%A7%D9%86/</loc>
@@ -196,17 +196,17 @@
                 href="/fa/tags/css/"
                 />
   </url><url>
-    <loc>/fa/2019/03/guia-de-sintaxe-markdown/</loc>
+    <loc>/fa/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/2019/03/markdown-syntax-guide/"
+                href="/en/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/2019/03/guia-de-sintaxe-markdown/"
+                href="/fa/posts/markdown-syntax/"
                 />
   </url><url>
     <loc>/fa/series/guia-do-thema/</loc>
@@ -244,17 +244,17 @@
     <loc>/fa/categories/temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fa/2019/03/conte%C3%BAdo-rico/</loc>
+    <loc>/fa/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/2019/03/rich-content/"
+                href="/en/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/2019/03/conte%C3%BAdo-rico/"
+                href="/fa/posts/rich-content/"
                 />
   </url><url>
     <loc>/fa/tags/privacy/</loc>
@@ -286,17 +286,17 @@
     <loc>/fa/tags/%D8%B4%DA%A9%D9%84%DA%A9/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fa/2019/03/%D9%BE%D8%B4%D8%AA%DB%8C%D8%A8%D8%A7%D9%86%DB%8C-%D8%A7%D8%B2-%D8%B4%DA%A9%D9%84%DA%A9/</loc>
+    <loc>/fa/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/2019/03/emoji-support/"
+                href="/en/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/2019/03/%D9%BE%D8%B4%D8%AA%DB%8C%D8%A8%D8%A7%D9%86%DB%8C-%D8%A7%D8%B2-%D8%B4%DA%A9%D9%84%DA%A9/"
+                href="/fa/posts/emoji-support/"
                 />
   </url><url>
     <loc>/fa/categories/development/</loc>
@@ -338,17 +338,17 @@
                 href="/fa/tags/hugo/"
                 />
   </url><url>
-    <loc>/fa/2019/03/p%C3%A1gina-externa-wiki-hugo-coder/</loc>
+    <loc>/fa/posts/hugo-coder-wiki/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/2019/03/external-page-hugo-coder-wiki/"
+                href="/en/posts/hugo-coder-wiki/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/2019/03/p%C3%A1gina-externa-wiki-hugo-coder/"
+                href="/fa/posts/hugo-coder-wiki/"
                 />
   </url><url>
     <loc>/fa/tags/themes/</loc>
