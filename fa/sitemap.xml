@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/fa/authors/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/authors/"
+                />
+  </url><url>
+    <loc>/fa/categories/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/categories/"
+                />
+  </url><url>
     <loc>/fa/tags/markdown/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -54,6 +80,9 @@
                 href="/fa/tags/text/"
                 />
   </url><url>
+    <loc>/fa/categories/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/fa/posts/placeholder-text/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -80,18 +109,8 @@
                 href="/fa/"
                 />
   </url><url>
-    <loc>/fa/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/categories/"
-                />
+    <loc>/fa/authors/%DA%AF%D8%B1%D9%88%D9%87-%D9%86%D9%88%DB%8C%D8%B3%D9%86%D8%AF%DA%AF%D8%A7%D9%86/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/fa/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -311,18 +330,6 @@
                 rel="alternate"
                 hreflang="fa"
                 href="/fa/about/"
-                />
-  </url><url>
-    <loc>/fa/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/authors/"
                 />
   </url><url>
     <loc>/fa/projects/</loc>
