@@ -31,7 +31,6 @@
         "@id": "{{ .Permalink | absURL }}"
     },
     "author" : [
-    
     {{ range $index, $item := $authors }}
         {
             "@type": "Person",
@@ -70,7 +69,7 @@
     "image": {{ if .Params.images }}[{{ range $i, $e := .Params.images }}{{ if $i }}, {{ end }}{{ $e | absURL }}{{ end }}]{{ else}}{{.Site.Params.logo | absURL }}{{ end }},
     "url" : "{{ .Permalink }}",
     "wordCount" : "{{ .WordCount }}",
-    "keywords" : [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}],
+    "keywords" : [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}]
 }
 </script>
 {{ end }}
