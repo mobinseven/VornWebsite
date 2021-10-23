@@ -1,5 +1,5 @@
 baseURL = "https://vorn.ir"
-title = "VORN"
+title = "Vanguards of Rationalist Networks (VORN) Ltd."
 theme = "hugo-coder"
 #languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,10 +12,10 @@ enableEmoji = true
 [markup.goldmark.renderer]
 unsafe= true
 [params]
-logo = "favicon-32x32.png"
-copyright = "Vanguards of Rationalist Networks, Ltd."
+logo = "images/logo.png"
+copyright = "&copy; Vanguards of Rationalist Networks, Ltd."
 author = "Vanguards of Rationalist Networks"
-description = "&copy; Vanguards of Rationalist Networks, Ltd."
+description = "Vanguards of Rationalist Networks, Ltd. is a private company based in Iran, involved in designing systems and networks based on rational ideas."
 keywords = "company,engineering,systems"
 info = ["System Design Tech Firm"]
 avatarURL = "images/logo.png"
