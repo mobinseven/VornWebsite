@@ -78,6 +78,7 @@ title = "پیشگامان شبکه‌های خردگرا"
 contentDir = "content/fa"
 
 [languages.fa.params]
+baseURL = "https://vorn.ir/"
 author = "پیشگامان شبکه‌های خردگرا"
 info = "شرکت مهندسی سیستم"
 description = "پایگاه شرکت پیشگامان شبکه‌های خردگرا"
