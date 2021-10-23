@@ -14,7 +14,7 @@
 {{ $author :=  or (.Params.author) (.Site.Author.name) }}
 {{ $org_name :=  .Site.Title }}
 {{ $authors := (.Page.Params.Authors) }}
-{{ $authorscount := (len $authors) }}
+{{ $authorscount := or (len $authors) 0 }}
 <script type="application/ld+json">
     
 {
