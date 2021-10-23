@@ -3,7 +3,6 @@ title = "Vanguards of Rationalist Networks (VORN) Ltd."
 theme = "hugo-coder"
 defaultContentLanguage = "fa"
 defaultContentLanguageInSubdir = true
-disableLanguages = ["en"]
 paginate = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
