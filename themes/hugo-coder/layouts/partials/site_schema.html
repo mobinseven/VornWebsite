@@ -30,13 +30,15 @@
     },
     "author" : [
     
-    {{ range $index, $author := .Page.Params.Authors }}
+  {{ $list := (.Page.Params.Authors) }}
+  {{ $len := (len $list) }}
+    {{ range $index, $author := $list }}
         {
             "@type": "Person",
             "name": "{{ $author }}",
             "url": "{{ ( printf "authors/%s/" ( $author | urlize ) ) | absLangURL }}"
         }
-        {{ if not $index }},{{ end }}
+        {{ if not eq (add $index 1) $len }},{{ end }}
     {{ end }}
     ],
     
