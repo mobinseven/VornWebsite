@@ -42,14 +42,28 @@
     {{ end }}
     ],
     
-    "creator" : {
-        "@type": "Person",
-        "name": "{{ $author }}"
-    },
-    "accountablePerson" : {
-        "@type": "Person",
-        "name": "{{ $author }}"
-    },
+    "creator" : [
+    {{ range $index, $item := $authors }}
+        {
+            "@type": "Person",
+            "name": "{{ $item }}",
+            "url": "{{ ( printf "authors/%s/" ( $item | urlize ) ) | absLangURL }}"
+        }
+        {{ $authorscount := (len $authors) }}
+        {{ if not (eq (add $index 1) $authorscount) }},{{ end }}
+    {{ end }}
+    ],
+    "accountablePerson" : [
+    {{ range $index, $item := $authors }}
+        {
+            "@type": "Person",
+            "name": "{{ $item }}",
+            "url": "{{ ( printf "authors/%s/" ( $item | urlize ) ) | absLangURL }}"
+        }
+        {{ $authorscount := (len $authors) }}
+        {{ if not (eq (add $index 1) $authorscount) }},{{ end }}
+    {{ end }}
+    ],
     "copyrightHolder" : "{{ $org_name }}",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
     "dateCreated": "{{ .Date.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
