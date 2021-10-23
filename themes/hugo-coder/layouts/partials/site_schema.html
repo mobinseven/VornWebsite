@@ -14,7 +14,6 @@
 {{ $author :=  or (.Params.author) (.Site.Author.name) }}
 {{ $org_name :=  .Site.Title }}
 {{ $authors := (.Page.Params.Authors) }}
-{{ $authorscount := or (len $authors) 0 }}
 <script type="application/ld+json">
     
 {
@@ -39,6 +38,7 @@
             "name": "{{ $item }}",
             "url": {{ apply ( printf "authors/%s/" ( $item | urlize ) ) "absLangURL" "." }}
         }
+        {{ $authorscount := (len $authors) }}
         {{ if not (eq (add $index 1) $authorscount) }},{{ end }}
     {{ end }}
     ],
