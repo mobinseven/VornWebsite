@@ -31,12 +31,11 @@
     "author" : [
     
     {{- range $index, $el := . -}}
-    
-    {
-        "@type": "Person",
-        "name": "{{ . }}",
-        "url": "{{ ( printf "authors/%s/" ( . | urlize ) ) | relLangURL }}""
-    },
+        {
+            "@type": "Person",
+            "name": "{{ . }}",
+            "url": "{{ ( printf "authors/%s/" ( . | urlize ) ) | relLangURL }}"
+        },
     {{- end -}}
     ],
     "creator" : {
