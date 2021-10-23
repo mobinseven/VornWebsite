@@ -13,7 +13,10 @@
 {{ else if .IsPage }}
 {{ $author :=  or (.Params.author) (.Site.Author.name) }}
 {{ $org_name :=  .Site.Title }}
+{{ $authors := (.Page.Params.Authors) }}
+{{ $authorscount := (len $authors) }}
 <script type="application/ld+json">
+    
 {
     "@context": "http://schema.org",
     "@type": "BlogPosting",
@@ -26,17 +29,17 @@
     "isFamilyFriendly": "true",
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "{{ .Permalink | absURL }}"
+        "@id": {{ apply .Permalink "absURL" "." }}
     },
     "author" : [
     
-    {{ range $index, $author := .Page.Params.Authors }}
+    {{ range $index, $item := $authors }}
         {
             "@type": "Person",
-            "name": "{{ $author }}",
-            "url": "{{ ( printf "authors/%s/" ( $author | urlize ) ) | absLangURL }}"
+            "name": "{{ $item }}",
+            "url": {{ apply ( printf "authors/%s/" ( $item | urlize ) ) "absLangURL" "." }}
         }
-        {{ if not (eq (add $index 1) (len .Page.Params.Authors)) }},{{ end }}
+        {{ if not (eq (add $index 1) $authorscount) }},{{ end }}
     {{ end }}
     ],
     
