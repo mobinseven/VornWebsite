@@ -28,10 +28,17 @@
         "@type": "WebPage",
         "@id": "{{ .Permalink }}"
     },
-    "author" : {
+    "author" : [
+    
+    {{- range $index, $el := . -}}
+    
+    {
         "@type": "Person",
-        "name": "{{ $author }}"
+        "name": "{{ . }}",
+        "url": "{{ ( printf "authors/%s/" ( . | urlize ) ) | relLangURL }}""
     },
+    {{- end -}}
+    ],
     "creator" : {
         "@type": "Person",
         "name": "{{ $author }}"
