@@ -28,7 +28,7 @@
     "isFamilyFriendly": "true",
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "{{ .Permalink | absURL }}""
+        "@id": "{{ .Permalink | absURL }}"
     },
     "author" : [
     
@@ -36,7 +36,7 @@
         {
             "@type": "Person",
             "name": "{{ $item }}",
-            "url": {{ apply ( printf "authors/%s/" ( $item | urlize ) ) "absLangURL" "." }}
+            "url": "{{ ( printf "authors/%s/" ( $author | urlize ) ) | absLangURL }}"
         }
         {{ $authorscount := (len $authors) }}
         {{ if not (eq (add $index 1) $authorscount) }},{{ end }}
