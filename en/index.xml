@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vanguards of Rationalist Networks (VORN) Ltd.</title>
-    <link>https://vorn.ir/en/</link>
+    <link>/en/</link>
     <description>Recent content on Vanguards of Rationalist Networks (VORN) Ltd.</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://vorn.ir/en/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://vorn.ir/en/about/</link>
+      <link>/en/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://vorn.ir/en/about/</guid>
+      <guid>/en/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
@@ -18,19 +18,19 @@ Hugo makes use of a variety of open source projects including:
     
     <item>
       <title>Contact</title>
-      <link>https://vorn.ir/en/contact/</link>
+      <link>/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vorn.ir/en/contact/</guid>
+      <guid>/en/contact/</guid>
       <description>Follow me, @johndoe.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://vorn.ir/en/projects/</link>
+      <link>/en/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vorn.ir/en/projects/</guid>
+      <guid>/en/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     

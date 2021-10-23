@@ -2,101 +2,101 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vorn.ir/en/about/</loc>
+    <loc>/en/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://vorn.ir/fa/about/"
+                href="/fa/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vorn.ir/en/about/"
+                href="/en/about/"
                 />
   </url><url>
-    <loc>https://vorn.ir/en/authors/</loc>
+    <loc>/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://vorn.ir/fa/authors/"
+                href="/fa/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vorn.ir/en/authors/"
+                href="/en/authors/"
                 />
   </url><url>
-    <loc>https://vorn.ir/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://vorn.ir/fa/categories/"
+                href="/fa/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vorn.ir/en/categories/"
+                href="/en/categories/"
                 />
   </url><url>
-    <loc>https://vorn.ir/en/contact/</loc>
+    <loc>/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://vorn.ir/fa/contact/"
+                href="/fa/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vorn.ir/en/contact/"
+                href="/en/contact/"
                 />
   </url><url>
-    <loc>https://vorn.ir/en/projects/</loc>
+    <loc>/en/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://vorn.ir/fa/projects/"
+                href="/fa/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vorn.ir/en/projects/"
+                href="/en/projects/"
                 />
   </url><url>
-    <loc>https://vorn.ir/en/series/</loc>
+    <loc>/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://vorn.ir/fa/series/"
+                href="/fa/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vorn.ir/en/series/"
+                href="/en/series/"
                 />
   </url><url>
-    <loc>https://vorn.ir/en/tags/</loc>
+    <loc>/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://vorn.ir/fa/tags/"
+                href="/fa/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vorn.ir/en/tags/"
+                href="/en/tags/"
                 />
   </url><url>
-    <loc>https://vorn.ir/en/</loc>
+    <loc>/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://vorn.ir/fa/"
+                href="/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vorn.ir/en/"
+                href="/en/"
                 />
   </url>
 </urlset>
