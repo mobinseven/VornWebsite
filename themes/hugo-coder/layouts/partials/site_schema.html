@@ -30,14 +30,16 @@
     },
     "author" : [
     
-    {{ range .Page.Params.Authors }}
+    {{ range $index, $author := .Page.Params.Authors }}
         {
             "@type": "Person",
-            "name": "{{ . }}",
-            "url": "{{ ( printf "authors/%s/" ( . | urlize ) ) | relLangURL }}"
-        },
+            "name": "{{ $author }}",
+            "url": "{{ ( printf "authors/%s/" ( $author | urlize ) ) | absLangURL }}"
+        }
+        {{ if $index }},{{ end }}
     {{ end }}
     ],
+    
     "creator" : {
         "@type": "Person",
         "name": "{{ $author }}"
@@ -65,8 +67,7 @@
     "image": {{ if .Params.images }}[{{ range $i, $e := .Params.images }}{{ if $i }}, {{ end }}{{ $e | absURL }}{{ end }}]{{ else}}{{.Site.Params.logo | absURL }}{{ end }},
     "url" : "{{ .Permalink }}",
     "wordCount" : "{{ .WordCount }}",
-    "genre" : [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}],
-    "keywords" : [ {{ range $index, $keyword := .Params.keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}]
+    "keywords" : [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}],
 }
 </script>
 {{ end }}

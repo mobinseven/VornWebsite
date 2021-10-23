@@ -7,5 +7,4 @@ lastmod = {{ .Date }}
 description = ""
 lead = ""
 tags = []
-keywords = []
 +++
