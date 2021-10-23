@@ -36,7 +36,7 @@
         {
             "@type": "Person",
             "name": "{{ $item }}",
-            "url": "{{ ( printf "authors/%s/" ( $author | urlize ) ) | absLangURL }}"
+            "url": "{{ ( printf "authors/%s/" ( $item | urlize ) ) | absLangURL }}"
         }
         {{ $authorscount := (len $authors) }}
         {{ if not (eq (add $index 1) $authorscount) }},{{ end }}
