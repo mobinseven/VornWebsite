@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>پیشگامان شبکه‌های خردگرا</title>
+    <link>https://vorn.ir/</link>
+    <description>Recent content on پیشگامان شبکه‌های خردگرا</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 12 Oct 2021 13:50:00 +0000</lastBuildDate><atom:link href="https://vorn.ir/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>چارواژه</title>
+      <link>https://vorn.ir/posts/%DA%86%D8%A7%D8%B1%D9%88%D8%A7%DA%98%D9%87/</link>
+      <pubDate>Tue, 12 Oct 2021 13:50:00 +0000</pubDate>
+      
+      <guid>https://vorn.ir/posts/%DA%86%D8%A7%D8%B1%D9%88%D8%A7%DA%98%D9%87/</guid>
+      <description>نگاهی به چهار مفهوم به سان چهار عنصر اصلی    انگارش1، نگرش2، نگارش3 و روش4
+شب دامن خویش را به سرتاسر آفاق کشانده؛ باد، صدای سکوت را در میان کوچه‌ها می‌پراکند. آب، در دل تنگ صفای آینه را دارد و آرام است، گاهی به نوازشی تکانی می‌خورد. خاک، ریشه‌ها را تنگ در آغوش کشیده و تشنه است. در ژرفای شب، آتشی در دل فروزان است که در دیر مغان نیست.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://vorn.ir/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vorn.ir/about/</guid>
+      <description>من مهندس کنترل و برنامه‌نویس هستم.
+O Hugo faz o uso de vários projetos de código aberto incluíndo:
+ https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  O Hugo é ideal para blogs, sites corporativos, protfólio criativos, revistas online, aplicações de página única ou até sites com milhares de páginas.
+O Hugo é para pessoas que querem cuidar do seu próprio site sem se preocupar com a configuração ambientes complicados, dependências e bancos de dados.</description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>https://vorn.ir/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vorn.ir/projects/</guid>
+      <description>Nada para ver aqui.. Circulando!</description>
+    </item>
+    
+    <item>
+      <title>تماس با من</title>
+      <link>https://vorn.ir/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vorn.ir/contact/</guid>
+      <description>با من از طریق ایمیلم تماس بگیرید.</description>
+    </item>
+    
+  </channel>
+</rss>
