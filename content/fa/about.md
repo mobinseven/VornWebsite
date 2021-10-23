@@ -1,8 +1,8 @@
 +++
-title = "درباره"
+title = "در باره‌ی پیشگامان شبکه‌های خردگرا"
 description = "در باره‌ی پیشگامان شبکه‌های خردگرا"
 date = "2019-12-12"
-aliases = ["about-us"]
+aliases = ["about"]
 authors = [ "یونس ملکی" ]
 +++
 
