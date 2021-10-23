@@ -30,13 +30,13 @@
     },
     "author" : [
     
-    {{- range $index, $el := . -}}
+    {{ range .Page.Params.Authors }}
         {
             "@type": "Person",
             "name": "{{ . }}",
             "url": "{{ ( printf "authors/%s/" ( . | urlize ) ) | relLangURL }}"
         },
-    {{- end -}}
+    {{ end }}
     ],
     "creator" : {
         "@type": "Person",
