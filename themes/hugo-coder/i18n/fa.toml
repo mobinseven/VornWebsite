@@ -24,7 +24,7 @@ other = "فرسته‌ها"
 
 [reading_time]
 one = "یک دقیقه"
-other = "{{ .Count }}-دقیقه"
+other = "{{ .Count }} دقیقه"
 
 [page_not_found]
 other = "صفحه پیدا نشد."
