@@ -1,9 +1,9 @@
 baseURL = "https://vorn.ir/"
 title = "Vanguards of Rationalist Networks (VORN) Ltd."
 theme = "hugo-coder"
-#languageCode = "en"
-defaultContentLanguage = "en"
+defaultContentLanguage = "fa"
 defaultContentLanguageInSubdir = true
+disableLanguages = ["en"]
 paginate = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
