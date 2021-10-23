@@ -26,7 +26,7 @@
     "isFamilyFriendly": "true",
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "{{ .Permalink }}"
+        "@id": "{{ .Permalink | absURL }}"
     },
     "author" : [
     
@@ -36,7 +36,7 @@
             "name": "{{ $author }}",
             "url": "{{ ( printf "authors/%s/" ( $author | urlize ) ) | absLangURL }}"
         }
-        {{ if $index }},{{ end }}
+        {{ if not $index }},{{ end }}
     {{ end }}
     ],
     
