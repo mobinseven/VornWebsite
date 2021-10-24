@@ -85,6 +85,7 @@ keywords = "مهندسی سیستم"
 footerContent = "پیشگامان شبکه‌های خردگرا &copy;"
 rtl = true
 customCSS = ["css/custom.css"]
+customJS = ["js/PersianDate.js"]
 hideFooter = false
 hideCredits = true
 hideCopyright = true
