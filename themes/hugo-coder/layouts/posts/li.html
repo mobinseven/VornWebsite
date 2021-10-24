@@ -1,4 +1,8 @@
 <li>
-  <span class="date">{{.Date.Day}} {{i18n .Date.Month}} {{.Date.Year}}</span>
+  <span class="date">
+    <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+      {{.Date.Day}} {{i18n .Date.Month}} {{.Date.Year}}
+    </time>
+  </span>
   <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
 </li>
